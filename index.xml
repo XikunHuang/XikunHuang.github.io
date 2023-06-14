@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kun</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Kun</description>
+    <image>
+      <title>Kun</title>
+      <url>http://localhost:1313/papermod-cover.png</url>
+      <link>http://localhost:1313/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes on Diffusion Models</title>
+      <link>http://localhost:1313/posts/notes-on-diffusion-models/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/notes-on-diffusion-models/</guid>
+      <description>Notations $p(z|x)$: true posterior.
+$q_\phi(z|x)$: approximate posterior with parameters $\phi$.
+$x_0$: true data.
+$x_t, t \in [1,T]$: latent variables.
+$q(x_{t}|x_{t-1})$: forward process.
+$p(x_t|x_{t+1})$: reverse process.
+Understanding Diffusion Models from the Perspective of VAE This section briefly summarizes @Luo2022 with my understanding, particularly focusing on the math logic of behind the diffusion models. The original article by Calvin Luo is highly recommended! It helps a lot!
+Evidence Lower Bound What are likelihood-based generative models?</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
