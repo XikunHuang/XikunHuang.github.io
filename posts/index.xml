@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Kun</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://xikunhuang.github.io/posts/</link>
     <description>Recent content in Posts on Kun</description>
     <image>
       <title>Kun</title>
-      <url>http://localhost:1313/papermod-cover.png</url>
-      <link>http://localhost:1313/papermod-cover.png</link>
+      <url>https://xikunhuang.github.io/papermod-cover.png</url>
+      <link>https://xikunhuang.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://xikunhuang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes on Diffusion Models</title>
-      <link>http://localhost:1313/posts/notes-on-diffusion-models/</link>
+      <link>https://xikunhuang.github.io/posts/notes-on-diffusion-models/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/notes-on-diffusion-models/</guid>
+      <guid>https://xikunhuang.github.io/posts/notes-on-diffusion-models/</guid>
       <description>Notations $p(z|x)$: true posterior.
 $q_\phi(z|x)$: approximate posterior with parameters $\phi$.
 $x_0$: true data.
